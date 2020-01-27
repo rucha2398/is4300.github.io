@@ -2,22 +2,12 @@ h1 {
 	font-family: 'Roboto', sans-serif;
 	font-size: 45px; 
 	font-style: normal; 
-	font-variant: normal; 
-	color: white;
-	margin-top: 100;
-	letter-spacing: 1.5px;
-	text-shadow: 2px 2px 5px gray;
-
+	font-variant: normal;
 }
 
 h2 {
 	font-family: 'Roboto', sans-serif;
 	font-size: 24px; 
-	font-style: normal; 
-	font-variant: normal;
-	font-weight: 100; 
-	line-height: 26.4px; 
-	color: white;
 }
 
 h3 {
@@ -25,73 +15,11 @@ h3 {
 	font-size: 20px; 
 	font-style: normal; 
 	font-variant: normal;
-	font-weight: 100; 
-	line-height: 26.4px; 
-	color: white;
-	padding-left: 100px;
-	padding-top: 30px;
-
 }
 
 h4 {
-
 	font-family: 'Roboto', sans-serif;
 	font-size: 14px; 
-	color: #228B22;
-	padding-left: 100px;
-	padding-top: 30px;
-
-}
-
-.fog {
-   background-image: url("fog.gif");
-   background-attachment: fixed;
-   background-position: center;
-   background-repeat: no-repeat;
-   background-size: cover;
-}
-
-.nofog {
-	background-color: #000000;
-}
-
-.center {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	width: auto;
-	height: 50%;
-}
-
-.responsiveback {
-	width: 42%;
-	height: 109%;
-}
-
-.responsive {
-    width: 40%;
-    height: auto;
-    border-style: solid;
-    border-width: 3px;
-    border-color: #F0EAD6;
-}
-
-.card {
-    position: relative;
-    display: inline-block;
- }
-
-.card .img-top {
-    display: none;
-    position: absolute;
-    top: -4%;
-    left: 29%;
-    z-index: 99;
-}
-    
-.card:hover .img-top {
-    display: inline;
-    position: absolute;
 }
 
 ul {
